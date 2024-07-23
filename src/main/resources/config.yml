@@ -1,0 +1,5 @@
+calls-enables: true
+current-day: 1
+current-season: 'Summer'
+int-season: 1
+saved-season: 'Summer'

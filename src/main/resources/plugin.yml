@@ -1,0 +1,21 @@
+name: RolePlayManager_v3
+version: '${project.version}'
+main: com.SadJi.RolePlayManager.RolePlayManagerV3
+api-version: '1.20'
+softdepend: [PlaceholderAPI]
+commands:
+  name:
+    usage: /name name surname
+    description: change your name
+  menu:
+    usage: /menu
+    description: to open menu
+  job:
+    usage:  /job
+    description: open job list
+  setseason:
+    usage: /setseason season
+    description: set season
+  getseason:
+    usage: /getseason
+    description: get the current season
